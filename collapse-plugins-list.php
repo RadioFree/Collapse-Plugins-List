@@ -2,7 +2,7 @@
 /**
 * Plugin Name: Collapse Plugins List
 * Plugin URI: https://llacuna.org
-* Description: This plugin adds a button to the bottom of each post that adds the ability to make any post printable in a two column journal style layout. It includes automatic citations for links, including in-line annotations.   
+* Description: This is a simple plugin to improve the core of WordPress on the plugins admin page.  It collapses the list to make it easier to find plugins on mobile devices.   
 * Version: 1.0
 * Author: Sufi Shaikh & Chase Lang
 * Author URI: https://llacuna.org
